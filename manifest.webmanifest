@@ -1,0 +1,13 @@
+{
+  "name": "엘로디발레",
+  "short_name": "엘로디발레",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fffbea",
+  "theme_color": "#fffbea",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
